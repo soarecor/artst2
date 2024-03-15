@@ -6,7 +6,7 @@ export default function Home() {
       <div>
         <Image
           className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
-          src="/artst.svg"
+          src="/static/artst.svg"
           alt="artst Logo"
           width={180}
           height={37}
